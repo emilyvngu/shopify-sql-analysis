@@ -14,5 +14,4 @@ This project explores transactional data from a Shopify-like store to uncover cu
 ## Tools Used
 
 - SQL (Snowflake dialect)
-- Google Sheets (for data cleaning + visualization)
-- Python/Excel (optional, for charts)
+- Excel (for visualization)
