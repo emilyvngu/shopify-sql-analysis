@@ -15,3 +15,9 @@ This project explores transactional data from a Shopify-like store to uncover cu
 
 - SQL (Snowflake dialect)
 - Excel (for visualization)
+
+## 🔗 Project Files
+
+- [Full SQL Script](./shopify_analysis.sql)
+- [Visualizations Folder](./visualizations/)
+- [Sample Data](./data/)
